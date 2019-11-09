@@ -29,7 +29,7 @@
     "react-tv-cli": "^0.4.3",
     "react-tv-navigation": "^0.4.3",
     "webpack": "^3.8.1",
-    "webpack-dev-server": "^2.9.4"
+    "webpack-dev-server": "^3.1.11"
   },
   "dependencies": {
     "node-sass": "^4.13.0"
